@@ -11,7 +11,6 @@ body{
   align-items: center;
   height: 100vh;
   margin: 0;
-
 }
 
 .st0 {
@@ -31,9 +30,10 @@ color: #2d6b46;
 
 .card{
   background-color: rgb(246, 234, 211);
-  width: 550px;
-  height: 700px;
-  margin:auto
+  width: 400px;
+  height: 600px;
+  margin:auto;
+  align-items: center;
 }
 
 .text-container{
@@ -44,8 +44,20 @@ color: #2d6b46;
 
 .icon-container{
   display: grid;
-  margin-top: 30px;
+  margin-top: 50px;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: auto;
   fill: #2d6b46;
+  row-gap: 20px;
 }
+
+#logo{
+  margin-left:39%;
+}
+/* Mobile Settings */
+@media screen and (min-width: 780px) {
+  body {
+    background-image: url(images/background-image.png);
+  }
+}
+
