@@ -45,13 +45,12 @@ color: #2d6b46;
 .icon-container{
   display: grid;
   margin-top: 50px;
-  grid-template-columns: repeat(3, 2fr);
+  grid-template-columns: repeat(3, .5fr);
   grid-template-rows: auto;
   fill: #2d6b46;
-  row-gap: 30px;
+  row-gap: 10px;
   position: relative;
-  top: 20px; left: 10px
-
+  top: 20px; right: 170px;
 }
 
 #logo{
