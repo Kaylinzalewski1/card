@@ -1,5 +1,7 @@
-## My First Webpage (Business Card)
+## Project Summary (Business Card)
     While first being given the project I was extremely nervous as I had never done any sort of coding before. But I've come to terms as I was working on this that I actually enjoy the process. I haven't done much self branding aside from this website, and it was an eye-opening experience to say the least. I've learned so much about trial and error during this process and how coding can actually be fun. 
+## Accessibility 
     I think my project stands out because it represents me, I'm  a calm person so i want my clients to feel that same tranquil energy when they look at my business card site. I'm pretty simplistic when it comes to my designs, I like them clean, and functional. For this assignment specifically I used the font Copperplate and a color palette that was accessible for those with color blindness and other sight issues. 
+## Trial and Error
     During the early stages of the creation process for this site I created multiple mockups and mood boards. Some were made on figma and others were made using illustrator, I also used illustrator to create the logo for my business card website. For the aesthetic of my website, I wanted the whole site to feel like a walk in the field, not a worry in the world. I took the picture that displays on the background of the website, in a a moment where I felt most at peace. I want my clients to feel the same thing when they look at my website. 
     Since this was the first website I have ever developed it was filled with ups and downs. From learning the coding language to figuring out the SVG's, but once you get it you got it. 
